@@ -1,0 +1,47 @@
+.tyler-name{
+    /* color: #033d0d; */
+}
+.tyler-head-shot{
+    margin-bottom: 40px;
+    padding-left: 40px;
+    width: 400px;
+    padding-right: 60px;
+}    
+
+.tyler-intro-p{
+    margin-top: 320px;
+    /* background-color: red; */
+}
+
+.tyler-greeting{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+    text-align: left;
+}
+
+.tyler-greeting2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 24px;
+    text-align: right;
+}
+
+.tyler-button-div{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tyler-button{
+    margin-left: 10px;
+}
+
+.tyler-mouse{
+    /* width: 600px; */
+    width: 120%;
+    margin-top: 30px;
+}
+
+body{
+  background-image: linear-gradient(#ffffff, #ffffff, #c6eac0);
+}
