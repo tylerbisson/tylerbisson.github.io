@@ -36,6 +36,10 @@
     margin-left: 10px;
 }
 
+.tyler-mouse-link{
+    border-bottom: none;
+}
+
 .tyler-mouse{
     /* width: 600px; */
     width: 120%;
