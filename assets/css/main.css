@@ -3581,7 +3581,7 @@ input, select, textarea {
 					}
 
 						#wrapper > section > header > * {
-							max-width: 25rem;
+							max-width: 19rem;
 						}
 
 						#wrapper > section > header > :last-child {
