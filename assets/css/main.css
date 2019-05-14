@@ -3705,10 +3705,13 @@ input, select, textarea {
 
 				#wrapper > section > header {
 					padding: 3rem 2rem;
+					padding-bottom: 0;
 				}
 
 				#wrapper > section > .content {
 					padding: 3rem 2rem;
+					padding-top: 0;
+					padding-bottom: 0;
 				}
 
 					#wrapper > section > .content > section {
